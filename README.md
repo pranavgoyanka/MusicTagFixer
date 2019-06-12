@@ -10,6 +10,9 @@ Fix Music tags like ID3 using the last.fm API
 ## Steps to use
 ```
 pip install -r requitements.txt
+```
+Add your API Key to the API_Key.py file
+```
 python main.py
 ```
 
